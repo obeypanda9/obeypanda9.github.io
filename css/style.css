@@ -2,6 +2,7 @@
     display: inline-block;
     max-width: 20%;
     height: auto;
+    
 }
 
  .intro {
@@ -11,3 +12,24 @@
 
 }
 
+.row {
+	margin-top: 75px;
+}
+
+.intro2 {
+	font-family: 'Amatic SC', cursive;
+	margin-left: 0px;
+	font-size: 2em;
+
+}
+.para {
+	font-family: 'Amatic SC', cursive;
+	margin-left: 0px;
+	font-size: 20px;
+
+}
+
+.purple{
+	background-color: #5D5793;
+
+}
